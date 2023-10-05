@@ -26,61 +26,41 @@ Before you start working on the FPGA DSP project, make sure you have the necessa
 
 ### Installation
 
-1. Clone this repository to your local machine.
+1. (Add any specific installation instructions or tool setups here)
 
-```shell
-git clone https://github.com/yourusername/FPGA_DSP_Project.git
+## Project Structure
 
-Project Structure
 The project is organized into several directories to help you navigate through the code and resources.
 
-src/: Contains Verilog source code for DSP algorithms and FPGA implementation.
-tests/: Includes testbenches and test cases to verify the correctness of DSP algorithms.
-doc/: Documentation and resources related to the project.
+- `src/`: Contains Verilog source code for DSP algorithms and FPGA implementation.
+- `tests/`: Includes testbenches and test cases to verify the correctness of DSP algorithms.
+- `doc/`: Documentation and resources related to the project.
+
 (Feel free to add or modify directories as your project evolves.)
 
-### DSP Algorithms
+## DSP Algorithms
+
 This project aims to implement various DSP algorithms, including but not limited to:
 
-FIR (Finite Impulse Response) Filters
-IIR (Infinite Impulse Response) Filters
-FFT (Fast Fourier Transform)
-Convolution
-Signal Generation and Manipulation
+- FIR (Finite Impulse Response) Filters
+- IIR (Infinite Impulse Response) Filters
+- FFT (Fast Fourier Transform)
+- Convolution
+- Signal Generation and Manipulation
+
 (You can update this list based on your project's goals and requirements.)
 
-### Development Environment
+## Development Environment
+
 Describe the development environment, including FPGA development tools, software, and any hardware configurations required for the project.
 
 (Provide detailed setup instructions or link to separate setup documentation.)
 
-### How to Contribute
+## How to Contribute
+
 Contributions to this project are welcome! Whether you want to implement specific DSP algorithms, improve existing code, or enhance documentation, your contributions are valuable.
 
-Fork this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 
-Clone your forked repository to your local machine.
-
-shell
-Copy code
-git clone https://github.com/yourusername/FPGA_DSP_Project.git
-Create a new branch for your work.
-shell
-Copy code
-git checkout -b feature/new-feature
-Make your changes and commit them.
-shell
-Copy code
-git commit -m "Add new feature"
-Push your changes to your GitHub repository.
-shell
-Copy code
-git push origin feature/new-feature
-Create a pull request on the original repository to merge your changes.
-(Provide more specific instructions if needed.)
-
-### License
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
-
-(Replace "[License Name]" with the appropriate license for your project.)
+2. Clone your forked repository to your local machine.
 
